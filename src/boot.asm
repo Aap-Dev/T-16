@@ -47,13 +47,13 @@
  
    jmp mainloop
  
- welcome db 'Welcome to My OS!', 0x0D, 0x0A, 0
- msg_helloworld db 'Hello OSDev World!', 0x0D, 0x0A, 0
+ welcome db 'Welcome to TiMPLEST!', 0x0D, 0x0A, 0
+ msg_helloworld db 'Hello from TiMPLEST', 0x0D, 0x0A, 0
  badcommand db 'Bad command entered.', 0x0D, 0x0A, 0
  prompt db '>', 0
  cmd_hi db 'hi', 0
  cmd_help db 'help', 0
- msg_help db 'My OS: Commands: hi, help', 0x0D, 0x0A, 0
+ msg_help db 'TSHeLL: Commands: hi, help', 0x0D, 0x0A, 0
  buffer times 64 db 0
  
  ; ================
