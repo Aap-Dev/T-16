@@ -1,3 +1,4 @@
+;Full credit to BlekOS
 keyboard_wait dd 0
 keyboard_special_code dd 0
 
