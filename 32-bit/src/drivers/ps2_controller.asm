@@ -1,3 +1,4 @@
+;Full credit to BlekOS
 ps2_exist db 0
 ps2_command db 0
 
