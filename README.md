@@ -1,4 +1,4 @@
-# TiMPLEST-asm
+# T-16
 TiMPLEST in Assembly Language
 
 # Origin
